@@ -9,7 +9,9 @@
   "author": "Measheanh Sengheng",
   "license": "MIT",
   "dependencies": {
+    "ejs": "^3.1.9",
     "express": "^4.18.3",
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
   }
 }
